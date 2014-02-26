@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="1.0.0">
+	<name>Facebook PHP SDK</name>
+	<libraryname>facebook</libraryname>
+	<author>Facebook</author>
+	<creationDate></creationDate>
+	<copyright></copyright>
+	<license></license>
+	<authorEmail></authorEmail>
+	<authorUrl></authorUrl>
+	<version>3.2.3</version>
+	<description>
+		This is simply a Joomla library package of the standard Facebook PHP SDK  
+	</description>
+	<files folder="src">
+		<file>base_facebook.php</file>
+		<file>facebook.php</file>
+		<file>fb_ca_chain_bundle.crt</file>
+	</files>
+</extension>
